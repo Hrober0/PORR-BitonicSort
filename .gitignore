@@ -1,0 +1,11 @@
+*.o
+*.obj
+*.a
+*.so
+*.out
+*.exe
+bitonic_seq
+bitonic_omp
+bitonic_proc
+
+results/*.csv
